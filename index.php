@@ -28,6 +28,18 @@
 </script> -->
 <h1>Изучение JS</h1>
 	<!-- lesson12 SLIDER-->
+		<div id="slider">
+			<div id="polosa" >
+				<img src="img/hulk.png">
+				<img src="img/im.png">
+				<img src="img/im2.png">
+				<img src="img/kitty.png">
+				<img src="img/leo.png">
+				<img src="img/mt.png">
+				<img src="img/thor.png">
+			</div>
+		</div>
+		<button id="slider-left">Left</button>
 
 	<!-- lesson11 array -->
 	<!-- <hr>
