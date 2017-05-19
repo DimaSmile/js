@@ -27,7 +27,7 @@
   }
 </script> -->
 <h1>Изучение JS</h1>
-	<!-- lesson12 SLIDER-->
+	<!-- lesson12-13 SLIDER-->
 		<div id="slider">
 			<div id="polosa" >
 				<img src="img/hulk.png">
@@ -39,7 +39,6 @@
 				<img src="img/thor.png">
 			</div>
 		</div>
-		<button id="slider-left">Left</button>
 
 	<!-- lesson11 array -->
 	<!-- <hr>
