@@ -11,7 +11,8 @@
 	<!-- <script type="text/javascript" src="10.js" defer></script> -->
 	<link rel="stylesheet" href="css/style12.css">
 	<!-- <script type="text/javascript" src="11array.js" defer></script> -->
-	<script type="text/javascript" src="12Slider.js" defer></script>
+	<!-- <script type="text/javascript" src="12Slider.js" defer></script> -->
+	<script type="text/javascript" src="14.js" defer></script>
 	<title>Document</title>
 </head>
 <body>
@@ -27,8 +28,18 @@
   }
 </script> -->
 <h1>Изучение JS</h1>
+	<!-- lesson14 work with arrays-->
+	<p>Item 1</p>
+	<p class="one">Item 2 .one</p>
+	<p>Item 2</p>
+	<p>Item 3</p>
+	<p>Item 4</p>
+	<p>Item 5</p>
+	<div class="one">Класс .one</div>
+
+
 	<!-- lesson12-13 SLIDER-->
-		<div id="slider">
+		<!-- <div id="slider">
 			<div id="polosa" >
 				<img src="img/hulk.png">
 				<img src="img/im.png">
@@ -39,7 +50,7 @@
 				<img src="img/thor.png">
 			</div>
 		</div>
-
+ -->
 	<!-- lesson11 array -->
 	<!-- <hr>
 	<input type="text"  id="i1" name="">
