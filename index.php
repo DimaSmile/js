@@ -12,7 +12,8 @@
 	<link rel="stylesheet" href="css/style12.css">
 	<!-- <script type="text/javascript" src="11array.js" defer></script> -->
 	<!-- <script type="text/javascript" src="12Slider.js" defer></script> -->
-	<script type="text/javascript" src="14.js" defer></script>
+	<!-- <script type="text/javascript" src="14.js" defer></script> -->
+	<script type="text/javascript" src="15radioButton.js" defer></script>
 	<title>Document</title>
 </head>
 <body>
@@ -28,14 +29,21 @@
   }
 </script> -->
 <h1>Изучение JS</h1>
+	<!-- lesson15 radioButton-->
+	<p><input type="radio" name="prim" value="Apples">Apples</p>
+	<p><input type="radio" name="prim" value="Pears">Pears</p>
+	<p><input type="radio" name="prim" value="Plums">Plums</p>
+	<button id="one">Push</button>
+
+
 	<!-- lesson14 work with arrays-->
-	<p>Item 1</p>
+	<!-- <p>Item 1</p>
 	<p class="one">Item 2 .one</p>
 	<p>Item 2</p>
 	<p>Item 3</p>
 	<p>Item 4</p>
 	<p>Item 5</p>
-	<div class="one">Класс .one</div>
+	<div class="one">Класс .one</div> -->
 
 
 	<!-- lesson12-13 SLIDER-->
