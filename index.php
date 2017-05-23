@@ -10,10 +10,12 @@
 	<!-- <script type="text/javascript" src="9.js" defer></script> -->
 	<!-- <script type="text/javascript" src="10.js" defer></script> -->
 	<link rel="stylesheet" href="css/style12.css">
+	<link rel="stylesheet" href="css/style16.css">
 	<!-- <script type="text/javascript" src="11array.js" defer></script> -->
 	<!-- <script type="text/javascript" src="12Slider.js" defer></script> -->
 	<!-- <script type="text/javascript" src="14.js" defer></script> -->
-	<script type="text/javascript" src="15radioButton.js" defer></script>
+	<!-- <script type="text/javascript" src="15radioButton.js" defer></script> -->
+	<script type="text/javascript" src="16generatorCss.js" defer></script>
 	<title>Document</title>
 </head>
 <body>
@@ -29,11 +31,16 @@
   }
 </script> -->
 <h1>Изучение JS</h1>
+	<!-- lesson16 servis CSS Generator -->
+	<p>Border-radius: <input type="range" id="r1" value="0" name=""></p>
+	<div id="test"></div>
+	<textarea id="out"></textarea>
+
 	<!-- lesson15 radioButton-->
-	<p><input type="radio" name="prim" value="Apples">Apples</p>
+	<!-- <p><input type="radio" name="prim" value="Apples">Apples</p>
 	<p><input type="radio" name="prim" value="Pears">Pears</p>
 	<p><input type="radio" name="prim" value="Plums">Plums</p>
-	<button id="one">Push</button>
+	<button id="one">Push</button> -->
 
 
 	<!-- lesson14 work with arrays-->

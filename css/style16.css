@@ -1,0 +1,12 @@
+#test{
+	width: 150px;
+	height: 150px;
+	background: orange;
+}
+
+#out{
+	width: 300px;
+	height: 150px;
+	margin: 20px;
+	font-size: 16px;
+}
