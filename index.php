@@ -15,7 +15,8 @@
 	<!-- <script type="text/javascript" src="12Slider.js" defer></script> -->
 	<!-- <script type="text/javascript" src="14.js" defer></script> -->
 	<!-- <script type="text/javascript" src="15radioButton.js" defer></script> -->
-	<script type="text/javascript" src="16generatorCss.js" defer></script>
+	<!-- <script type="text/javascript" src="16generatorCss.js" defer></script> -->
+	<script type="text/javascript" src="17object.js" defer></script>
 	<title>Document</title>
 </head>
 <body>
@@ -31,10 +32,15 @@
   }
 </script> -->
 <h1>Изучение JS</h1>
+
+	<!--lesson17 Associative array -->
+	<p id="out"></p>
+
+
 	<!-- lesson16 servis CSS Generator -->
-	<p>Border-radius: <input type="range" id="r1" value="0" name=""></p>
+	<!-- <p>Border-radius: <input type="range" id="r1" value="0" name=""></p>
 	<div id="test"></div>
-	<textarea id="out"></textarea>
+	<textarea id="out"></textarea> -->
 
 	<!-- lesson15 radioButton-->
 	<!-- <p><input type="radio" name="prim" value="Apples">Apples</p>
