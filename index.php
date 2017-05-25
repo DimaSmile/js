@@ -16,7 +16,8 @@
 	<!-- <script type="text/javascript" src="14.js" defer></script> -->
 	<!-- <script type="text/javascript" src="15radioButton.js" defer></script> -->
 	<!-- <script type="text/javascript" src="16generatorCss.js" defer></script> -->
-	<script type="text/javascript" src="17object.js" defer></script>
+	<!-- <script type="text/javascript" src="17object.js" defer></script> -->
+	<script type="text/javascript" src="18taskAssMass.js" defer></script>
 	<title>Document</title>
 </head>
 <body>
@@ -33,8 +34,11 @@
 </script> -->
 <h1>Изучение JS</h1>
 
+	<!-- lesson18 Solution of the problem with associative arrays -->
+	
+
 	<!--lesson17 Associative array -->
-	<p id="out"></p>
+	<!-- 	<p id="out"></p> -->
 
 
 	<!-- lesson16 servis CSS Generator -->
